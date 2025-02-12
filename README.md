@@ -1,7 +1,7 @@
 ![logo](https://github.com/gayathri3416/Gayathri/blob/main/git.avif)
 <h1 align="center">Hi 👋, I'm Gayathri</h1>
 <h3 align="center">A passionate about Data Science</h3>
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3Ebi2ypuXUH_YSj8-Boa4J&ust=1739464250370000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiI-MzHvosDFQAAAAAdAAAAABAE>
+<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw0XJuwjwtSVIx-8QtN8OIDw&ust=1739465346523000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi_p8fLvosDFQAAAAAdAAAAABAE>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri3416&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri3416" /> </p>
 
 - 🔭 I’m currently working on **AWS cloud practitioner**
